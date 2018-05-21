@@ -1,0 +1,8 @@
+C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\bin\Debug\Emedia Program2.exe.config
+C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\bin\Debug\Emedia Program2.exe
+C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\bin\Debug\Emedia Program2.pdb
+C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\obj\Debug\Emedia Program2.csprojResolveAssemblyReference.cache
+C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\obj\Debug\Emedia_Program2.Properties.Resources.resources
+C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\obj\Debug\Emedia Program2.csproj.GenerateResource.Cache
+C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\obj\Debug\Emedia Program2.exe
+C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\obj\Debug\Emedia Program2.pdb
