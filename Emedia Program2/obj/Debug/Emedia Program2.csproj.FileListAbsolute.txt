@@ -6,3 +6,13 @@ C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\obj\Debug\Emedia
 C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\obj\Debug\Emedia Program2.csproj.GenerateResource.Cache
 C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\obj\Debug\Emedia Program2.exe
 C:\Users\Rafał\Desktop\Egzamin\Emedia Program2\Emedia Program2\obj\Debug\Emedia Program2.pdb
+C:\Damian\c#\imidja\EmediaProgram2\Emedia Program2\bin\Debug\Emedia Program2.exe.config
+C:\Damian\c#\imidja\EmediaProgram2\Emedia Program2\bin\Debug\Emedia Program2.exe
+C:\Damian\c#\imidja\EmediaProgram2\Emedia Program2\bin\Debug\Emedia Program2.pdb
+C:\Damian\c#\imidja\EmediaProgram2\Emedia Program2\obj\Debug\Emedia Program2.csprojResolveAssemblyReference.cache
+C:\Damian\c#\imidja\EmediaProgram2\Emedia Program2\obj\Debug\Emedia_Program2.Properties.Resources.resources
+C:\Damian\c#\imidja\EmediaProgram2\Emedia Program2\obj\Debug\Emedia Program2.csproj.GenerateResource.Cache
+C:\Damian\c#\imidja\EmediaProgram2\Emedia Program2\obj\Debug\Emedia Program2.csproj.CoreCompileInputs.cache
+C:\Damian\c#\imidja\EmediaProgram2\Emedia Program2\obj\Debug\Emedia Program2.exe
+C:\Damian\c#\imidja\EmediaProgram2\Emedia Program2\obj\Debug\Emedia Program2.pdb
+C:\Damian\c#\imidja\EmediaProgram2\Emedia Program2\obj\Debug\Emedia_Program2.Form1.resources

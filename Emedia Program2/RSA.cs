@@ -100,7 +100,7 @@ namespace Emedia_Program2
         //######## OPERACJE NA OBRAZKU #######
         public void WczytajObrazek(string nazwa)
         {
-            sciezka = @"..\..\obrazy\lena.jpg";
+            sciezka = @"..\..\obrazy\"+nazwa;
             TablicaBytowObrazka = File.ReadAllBytes(sciezka);
             dlugosc = TablicaBytowObrazka.Length;
         }
@@ -177,7 +177,7 @@ namespace Emedia_Program2
         public void start()
         {
             GenerujKluczRSA();
-            WczytajObrazek("nic");
+            WczytajObrazek("lena.jpg");
             TablicaIntObrazka = ByteToInt(TablicaBytowObrazka);
             TablicaIntZakodowana = TablicaIntObrazka;
             KodujObrazek(TablicaIntZakodowana);
@@ -190,6 +190,29 @@ namespace Emedia_Program2
 
 
         }
+
+        public void startdecode(string nazwa)
+        {
+            GenerujKluczRSA();
+            WczytajObrazek(nazwa);
+            TablicaIntObrazka = ByteToInt(TablicaBytowObrazka);
+            TablicaIntZakodowana = TablicaIntObrazka;
+            KodujObrazek(TablicaIntZakodowana);
+            TablicaBytowZakodowana = IntToByte(TablicaIntZakodowana);
+            ZapiszZakodowanyPlik(TablicaBytowZakodowana);
+        }
+
+        public void startundecode ()
+        {
+            WczytajObrazek("zakodowane.jpg");
+            TablicaIntObrazka = ByteToInt(TablicaBytowObrazka);
+            DekodujObrazek(TablicaIntObrazka);
+            TablicaBytowObrazka = IntToByte(TablicaIntZakodowana);
+            ZapiszOdkodowanyPlik(TablicaBytowObrazka);
+
+        }
+
+
     }
 
 }
